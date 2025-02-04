@@ -1,2 +1,2 @@
-# SkyAnalitics
+# SkyAnalytics
 Python
